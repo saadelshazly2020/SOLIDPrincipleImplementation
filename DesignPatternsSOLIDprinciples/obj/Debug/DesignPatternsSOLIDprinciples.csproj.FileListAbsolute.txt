@@ -1,0 +1,8 @@
+C:\Users\saad\source\repos\DesignPatternsSOLIDprinciples\DesignPatternsSOLIDprinciples\bin\Debug\DesignPatternsSOLIDprinciples.exe.config
+C:\Users\saad\source\repos\DesignPatternsSOLIDprinciples\DesignPatternsSOLIDprinciples\bin\Debug\DesignPatternsSOLIDprinciples.exe
+C:\Users\saad\source\repos\DesignPatternsSOLIDprinciples\DesignPatternsSOLIDprinciples\bin\Debug\DesignPatternsSOLIDprinciples.pdb
+C:\Users\saad\source\repos\DesignPatternsSOLIDprinciples\DesignPatternsSOLIDprinciples\obj\Debug\DesignPatternsSOLIDprinciples.csproj.AssemblyReference.cache
+C:\Users\saad\source\repos\DesignPatternsSOLIDprinciples\DesignPatternsSOLIDprinciples\obj\Debug\DesignPatternsSOLIDprinciples.csproj.SuggestedBindingRedirects.cache
+C:\Users\saad\source\repos\DesignPatternsSOLIDprinciples\DesignPatternsSOLIDprinciples\obj\Debug\DesignPatternsSOLIDprinciples.csproj.CoreCompileInputs.cache
+C:\Users\saad\source\repos\DesignPatternsSOLIDprinciples\DesignPatternsSOLIDprinciples\obj\Debug\DesignPatternsSOLIDprinciples.exe
+C:\Users\saad\source\repos\DesignPatternsSOLIDprinciples\DesignPatternsSOLIDprinciples\obj\Debug\DesignPatternsSOLIDprinciples.pdb
